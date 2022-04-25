@@ -17,5 +17,5 @@ Let me know if you have any questions or if you think of a way to make this more
    1. `git stage *`
    2. `git commit` - type a commit message, doesn't have to be overly complicated, just put what you added
    3. `git push`
-      1. You will have to generate a token if you haven't done so in a while on your machine. Directions for that are [here].(https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+      1. You will have to generate a token if you haven't done so in a while on your machine. Directions for that are [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 5. Enjoy! Thanks for contributing!
