@@ -19,3 +19,9 @@ Let me know if you have any questions or if you think of a way to make this more
    3. `git push`
       1. You will have to generate a token if you haven't done so in a while on your machine. Directions for that are [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 5. Enjoy! Thanks for contributing!
+
+## Acessing Others' Code:
+1. If you haven't already, clone this repo locally to your machine
+   1. ``git clone https://github.com/TrevorPeitzman/graphics-physics-solutions``
+2. If you already have cloned the repository, simply pull down the changes
+   1. `git pull`
